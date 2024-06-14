@@ -1,0 +1,99 @@
+
+.custom{
+  color: blueviolet;
+}
+.c-ul li{
+
+list-style-type: none;
+margin-left: 0;
+font-size: 10pt;
+
+
+}
+.c-ul li:hover{
+ cursor: pointer;
+ color:#F85606;
+
+}
+
+.c-shadow{
+
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: left;
+}
+.ab{
+
+  margin: auto;
+}
+.l1{
+
+  list-style-type: none;
+}
+.l-parent:hover{
+background-color: #FFE8DE;
+padding: 2px;
+
+}
+.p-1{
+margin: auto;
+list-style-type: none;
+
+}
+.d-1{
+
+  background-color:#f7f9fd;
+}
+.h-1{
+color:#9CA3AF;
+
+}
+
+.btn-1{
+  background-color: #F28500;
+  outline: none;
+}
+.back{
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+  padding: 10px;
+}
+
+
+.t-shedow{
+  margin: auto;
+  list-style-type: none;
+  
+}
+
+.t-shedow:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor:pointer;
+}
+header{
+  background-color:#F85606;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+footer{
+  background-color:#C7C8CC;
+}
+.logo{
+  width: 150px;
+}
+.abc{
+  margin-left: 8rem;
+}
+.glove{
+  margin-top: 5rem;
+  padding: 2rem;
+}
+.mar{
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+.cusotmIcon{
+  margin-right: 10px;
+}
